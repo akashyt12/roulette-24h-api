@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+roulette_24h.csv
+.vercel
+.env.local
