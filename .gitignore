@@ -3,3 +3,6 @@ __pycache__/
 roulette_24h.csv
 .vercel
 .env.local
+
+.vercel
+.env*
